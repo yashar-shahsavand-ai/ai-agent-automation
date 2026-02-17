@@ -39,4 +39,4 @@ http://127.0.0.1:8000/docs
 
 ## Notes
 
-This is a clean-room demonstration showing how small organizations can deploy AI agents to automate repetitive operational workflows without relying on external cloud AI services.
+This is a clean-room demonstration showing small organizations can deploy AI agents to automate repetitive operational workflows without relying on external cloud AI services.
